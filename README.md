@@ -20,7 +20,8 @@ Features a collapsible, filterable, and animated graph for intuitive risk explor
 
 ## 🚀 Live Demo
 
-<a href="https://interactive-cloud-risk-visualizatio.vercel.app/" target="_blank">Live Demo</a>
+[Live Demo](https://interactive-cloud-risk-visualizatio.vercel.app/) 
+
 
 
 ## 🖼️ Screenshot
